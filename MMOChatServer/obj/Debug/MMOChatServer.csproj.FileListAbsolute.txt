@@ -1,0 +1,15 @@
+C:\Users\FastPC\Desktop\MMOChatServer\MMOChatServer\bin\Debug\MMOChatServer.exe.config
+C:\Users\FastPC\Desktop\MMOChatServer\MMOChatServer\bin\Debug\MMOChatServer.exe
+C:\Users\FastPC\Desktop\MMOChatServer\MMOChatServer\bin\Debug\MMOChatServer.pdb
+C:\Users\FastPC\Desktop\MMOChatServer\MMOChatServer\obj\Debug\MMOChatServer.csprojResolveAssemblyReference.cache
+C:\Users\FastPC\Desktop\MMOChatServer\MMOChatServer\obj\Debug\MMOChatServer.exe
+C:\Users\FastPC\Desktop\MMOChatServer\MMOChatServer\obj\Debug\MMOChatServer.pdb
+C:\Users\Administrator\Desktop\MMOChatServer\MMOChatServer\bin\Debug\MMOChatServer.exe.config
+C:\Users\Administrator\Desktop\MMOChatServer\MMOChatServer\obj\Debug\MMOChatServer.exe
+C:\Users\Administrator\Desktop\MMOChatServer\MMOChatServer\obj\Debug\MMOChatServer.pdb
+C:\Users\Administrator\Desktop\MMOChatServer\MMOChatServer\bin\Debug\MMOChatServer.exe
+C:\Users\Administrator\Desktop\MMOChatServer\MMOChatServer\bin\Debug\MMOChatServer.pdb
+C:\Users\Administrator\Desktop\MMOChatServer\MMOChatServer\obj\Debug\MMOChatServer.csprojResolveAssemblyReference.cache
+C:\Users\FastPC\Desktop\MMOChatServer\MMOChatServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FastPC\Desktop\MMOChatServer\MMOChatServer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\FastPC\Desktop\MMOChatServer\MMOChatServer\bin\Debug\Newtonsoft.Json.xml
